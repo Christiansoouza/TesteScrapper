@@ -1,0 +1,7 @@
+# Ignorar diretório do ambiente virtual
+venv/
+.env
+*.env
+__pycache__/
+.vscode/
+.dockerignore
